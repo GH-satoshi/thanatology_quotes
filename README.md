@@ -1,1 +1,1 @@
-Settings --> pages --> URL copy --> Notion埋め込み
+Settings --> Pages --> URL copy --> Notion 埋め込み
