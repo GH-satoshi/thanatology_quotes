@@ -1,4 +1,3 @@
-- タナトロジー（死生学）の箴言を自動表示。
-- 個人使用のNotion用ウィジェットとして作成。
+- タナトロジー（死生）に関する箴言（750 quotes）を、30秒ごとに更新して自動表示する。
+- 個人使用のNotion用ウィジェットとして作成（Settings -> Pages -> URL copy -> Notion埋め込み）。
 - HTML+CSS+Javascriptの一枚のみ。
-- Settings --> Pages --> URL copy --> Notion埋め込み
