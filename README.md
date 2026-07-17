@@ -1,2 +1,4 @@
-# タナトロジーの箴言
-Settings --> Pages --> URL copy --> Notion 埋め込み
+- タナトロジー（死生学）の箴言を自動表示。
+- 個人使用のNotion用ウィジェットとして作成。
+- HTML+CSS+Javascriptの一枚のみ。
+- Settings --> Pages --> URL copy --> Notion埋め込み
